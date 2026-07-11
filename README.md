@@ -17,14 +17,16 @@ A full-stack learning platform built with FastAPI, SQLite, Docker, GitHub Action
 An analyst-first, synthetic cytogenetics/FISH LIS and interface simulator demonstrating relational data modeling, workflow validation, audit trails, outbound HL7/FHIR-style messages, inbound ORU-style result ingestion, and interface error-queue handling.
 
 - Requirements-to-test traceability and manual UAT documentation
+- 61 pytest tests, four demo scenarios, and CI on Python 3.11/3.12
 - Synthetic data only; no PHI or proprietary clinical-system content
 - Built to demonstrate LIS/interface-analysis and validation thinking
 
 ### [Home Server Lab](https://github.com/jaustinanderson/home-server-lab)
-A documented Raspberry Pi and self-hosted infrastructure learning environment for Linux administration, SSH, Docker, automation, backup planning, and future AI/data services.
+A documented two-machine home lab (mini PC + Raspberry Pi) for Linux administration, SSH, Docker, automation, backup planning, and future AI/data services.
 
 - Public-safe build and decision documentation
 - Security, backup, network, and architecture planning
+- Key-only SSH, private Tailscale access, and automated ShellCheck evidence
 - Foundation for future self-hosted AI and laboratory-informatics projects
 
 ## Current Technical Focus
