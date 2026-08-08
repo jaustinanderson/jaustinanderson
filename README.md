@@ -21,12 +21,12 @@ An analyst-first, synthetic cytogenetics/FISH LIS and interface simulator demons
 - Synthetic data only; no PHI or proprietary clinical-system content
 - Built to demonstrate LIS/interface-analysis and validation thinking
 
-### [Home Server Lab](https://github.com/jaustinanderson/home-server-lab)
-A documented two-machine home lab (mini PC + Raspberry Pi) for Linux administration, SSH, Docker, automation, backup planning, and future AI/data services.
+### [Home Server Lab](https://github.com/jaustinanderson/home-server-lab-portfolio)
+A sanitized portfolio view of a private home lab for Linux administration, secure remote access, infrastructure-as-code, storage design, backup verification, and future AI/data services.
 
-- Public-safe build and decision documentation
-- Security, backup, network, and architecture planning
-- Key-only SSH, private Tailscale access, and automated ShellCheck evidence
+- Generalized architecture and bounded verification evidence
+- Security, backup, recovery, and change-control design
+- Automated privacy checks on files and new commit metadata
 - Foundation for future self-hosted AI and laboratory-informatics projects
 
 ## Current Technical Focus
