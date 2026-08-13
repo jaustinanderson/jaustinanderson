@@ -10,14 +10,14 @@ I use this GitHub to document a transition from hands-on clinical cytogenetics i
 A full-stack learning platform built with FastAPI, SQLite, Docker, GitHub Actions, and a vanilla-JavaScript frontend. Its swappable, CI-validated content-pack architecture includes a fully synthetic CytoFISH education domain.
 
 - [Live demo](https://navigatoredu.onrender.com)
-- 159 pytest tests and 25 Playwright browser tests
+- Automated pytest and Playwright browser test suites (current counts in the repository)
 - Accessibility, Docker-build, and content-governance checks in CI
 
 ### [CytoBridge LIS Interface Simulator](https://github.com/jaustinanderson/cytobridge-lis-interface-simulator)
 An analyst-first, synthetic cytogenetics/FISH LIS and interface simulator demonstrating relational data modeling, workflow validation, audit trails, outbound HL7/FHIR-style messages, inbound ORU-style result ingestion, and interface error-queue handling.
 
 - Requirements-to-test traceability and manual UAT documentation
-- 61 pytest tests, four demo scenarios, and CI on Python 3.11/3.12
+- Automated pytest suite, end-to-end demo scenarios, and CI on Python 3.11/3.12
 - Synthetic data only; no PHI or proprietary clinical-system content
 - Built to demonstrate LIS/interface-analysis and validation thinking
 
