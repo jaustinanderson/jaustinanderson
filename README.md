@@ -21,6 +21,14 @@ An analyst-first, synthetic cytogenetics/FISH LIS and interface simulator demons
 - Synthetic data only; no PHI or proprietary clinical-system content
 - Built to demonstrate LIS/interface-analysis and validation thinking
 
+### [Cytogenetics CG(ASCP) Study Course](https://github.com/jaustinanderson/cytogenetics-cg-course)
+An unofficial, browser-based, local-first study application that translates cytogenetics expertise into structured modules, practice, browser-local progress, and automated validation.
+
+- [Live course](https://jaustinanderson.github.io/cytogenetics-cg-course/)
+- No account, backend, or telemetry; learner progress remains in the browser
+- Public scientific-review, provenance, and assessment-governance records
+- Beta baseline: the question bank has not completed documented question-by-question scientific review
+
 ### [Home Server Lab](https://github.com/jaustinanderson/home-server-lab-portfolio)
 A sanitized portfolio view of a private home lab for Linux administration, secure remote access, infrastructure-as-code, storage design, backup verification, and future AI/data services.
 
