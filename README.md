@@ -1,6 +1,6 @@
 # J. Austin Anderson
 
-**CG(ASCP)-certified Cytogenetic Technologist building clinical AI, laboratory informatics, and workflow-automation projects.**
+**CG(ASCP)CM-certified Cytogenetic Technologist building clinical AI, laboratory informatics, and workflow-automation projects.**
 
 I use this GitHub to document a transition from hands-on clinical cytogenetics into applied AI, LIS/interface analysis, data systems, and practical software engineering. My portfolio emphasizes synthetic data, validation-minded design, reproducible documentation, and tools that connect laboratory domain knowledge with modern technical workflows.
 
@@ -48,8 +48,8 @@ A sanitized portfolio view of a private home lab for Linux administration, secur
 
 ## Clinical Background
 
-- CG(ASCP)-certified Cytogenetic Technologist
-- Experience with chromosome analysis, FISH workflows, assay validation, QC, troubleshooting, training support, and clinical laboratory operations
+- CG(ASCP)CM-certified Cytogenetic Technologist
+- Experience with chromosome analysis, FISH workflows, validation support, QC, troubleshooting, training support, and clinical laboratory operations
 - Domain perspective spanning oncology, constitutional, prenatal, solid-tissue, and plasma-cell workflows
 
 ## Engineering Principles
