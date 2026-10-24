@@ -49,7 +49,7 @@ A sanitized portfolio view of a private home lab for Linux administration, secur
 ## Clinical Background
 
 - CG(ASCP)CM-certified Cytogenetic Technologist
-- Experience with chromosome analysis, FISH workflows, assay validation, QC, troubleshooting, training support, and clinical laboratory operations
+- Experience with chromosome analysis, FISH workflows, validation support, QC, troubleshooting, training support, and clinical laboratory operations
 - Domain perspective spanning oncology, constitutional, prenatal, solid-tissue, and plasma-cell workflows
 
 ## Engineering Principles
